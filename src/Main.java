@@ -62,6 +62,8 @@ public class Main {
                     System.out.println(winner+" has no enough of mony for this bid");
                 case "Thread-2":if (thread3.wallet>=currentBid){System.out.println("Auction ended. The Winner is  "+winner+" with bid "+currentBid);} else
                     System.out.println(winner+" has no enough of mony for this bid");
+                //comment for commit
+
 
             }
 
